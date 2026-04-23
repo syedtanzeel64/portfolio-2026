@@ -109,7 +109,7 @@ export const PROFILE = {
   education: [
     {
       degree: 'Bachelor of Technology in Computer Science & Engineering (BTech CSE)',
-      institution: 'Your University',
+      institution: 'Quest Group of Institutions, Affiliated with Punjab Technical University',
       period: '2020 – 2024',
       desc: 'Focused on software engineering principles, web technologies, data structures, algorithms, and database systems.',
     },
