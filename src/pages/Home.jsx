@@ -67,7 +67,7 @@ export default function Home() {
     email: PROFILE.links.email,
     stats: PROFILE.stats,
     heroTitle: `Hi, I'm ${PROFILE.name || 'Syed T.'}`,
-    heroSubtitles: PROFILE.title || 'Frontend Developer',
+    heroSubtitles: PROFILE.title || 'Full Stack Developer',
     heroImage: '',
   }
 

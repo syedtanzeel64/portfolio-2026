@@ -17,7 +17,7 @@ import { getDb } from './firebase'
 export const CMS_DEFAULTS = {
   settings: {
     siteName: 'Syed Tanzeel',
-    tagline: 'Frontend Developer',
+    tagline: 'Full Stack Developer',
     location: 'Remote',
     email: 'hi@example.com',
     phone: '',
@@ -26,7 +26,7 @@ export const CMS_DEFAULTS = {
     heroImage: '',
     aboutImage: '',
     heroTitle: "Hi, I'm Syed Tanzeel",
-    heroSubtitles: "Frontend Developer, UI/UX Designer, Problem Solver",
+    heroSubtitles: "Full Stack Developer, UI/UX Designer, Problem Solver",
     aboutBio: "I craft elegant and responsive frontend experiences...",
     socials: {
       github: 'https://github.com/',

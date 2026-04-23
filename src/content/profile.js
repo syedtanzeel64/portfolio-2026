@@ -1,6 +1,6 @@
 export const PROFILE = {
   name: 'Syed T.',
-  title: 'Frontend Developer',
+  title: 'Full Stack Developer',
   location: 'Remote / Your City',
   summary:
     'I build modern, performant websites and web apps using React, WordPress, and PHP — with Firebase-powered backends when needed.',
@@ -82,11 +82,23 @@ export const PROFILE = {
   ],
   experience: [
     {
-      role: 'Freelance Frontend Developer',
+      role: 'Full Stack Developer',
+      company: 'Marina Technologies',
+      period: '2024 – Present',
+      type: 'Full-time',
+      desc: 'Working as a Full Stack Developer at Marina Technologies, building and maintaining robust web applications and digital solutions for enterprise clients.',
+      highlights: [
+        'Developing scalable full-stack web applications using React and PHP',
+        'Collaborating with cross-functional teams to deliver high-quality products',
+        'Implementing RESTful APIs and integrating third-party services',
+      ],
+    },
+    {
+      role: 'Freelance Full Stack Developer',
       company: 'Self-Employed',
       period: '2024 – Present',
       type: 'Freelance',
-      desc: 'Building custom web applications and websites for clients across various industries using React, WordPress, and Firebase.',
+      desc: 'Building custom web applications and websites for clients across various industries using React, WordPress, and Firebase — alongside full-time work.',
       highlights: [
         'Delivered 10+ client projects on time and within scope',
         'Specialised in e-commerce storefronts and business landing pages',
@@ -96,10 +108,10 @@ export const PROFILE = {
   ],
   education: [
     {
-      degree: 'Bachelor of Computer Applications (BCA)',
+      degree: 'Bachelor of Technology in Computer Science & Engineering (BTech CSE)',
       institution: 'Your University',
-      period: '2022 – 2025',
-      desc: 'Focused on software engineering principles, web technologies, and database systems.',
+      period: '2020 – 2024',
+      desc: 'Focused on software engineering principles, web technologies, data structures, algorithms, and database systems.',
     },
   ],
   testimonials: [
